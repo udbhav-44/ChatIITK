@@ -1,0 +1,7 @@
+llama-parse
+llama-index
+llama-index-embeddings-huggingface 
+llama-index-embeddings-instructor 
+llama-index-vector-stores-chroma 
+llama-index-llms-huggingface
+accelerate
